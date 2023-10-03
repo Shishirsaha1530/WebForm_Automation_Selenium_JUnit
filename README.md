@@ -56,7 +56,7 @@ The project is easy to use and can be customized to meet our specific needs. It 
 
 3️⃣ Open the IntelliJ IDE and click on OPEN and select the project path
 
-5️⃣ Select the "build.gradle" file and then Open as Project
+4️⃣ Select the "build.gradle" file and then Open as Project
 
 
 
